@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(242,242,242);
+    font-size: 25px;
+}
+button {
+    color: white;
+    background-color: rgb(98,146,148);
+    width: 100px;
+    padding: 10px;
+    font-size:15px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 8px;
+     
+}
+button:hover {
+    background-color: white;
+    color: rgb(98,146,148);
+}
+#add-animal{
+    color: white;
+    background-color: rgb(98,146,148);
+    padding: 10px;
+    font-size:15px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 8px;
+     
+}
+#add-animal:hover {
+    background-color: white;
+    color: rgb(98,146,148);
+}
+#animal-form {
+    float: right;
+    margin-right: 60px;
+}
+

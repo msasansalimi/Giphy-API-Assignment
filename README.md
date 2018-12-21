@@ -1,0 +1,1 @@
+In this assignment I have created a Giphy API page that show buttons with the name of animals on it and by clicking on, we are able to send a query to our API and grab the required data to show the response on our page. I was able to do this assignment by following the activities and TA assisstance.
